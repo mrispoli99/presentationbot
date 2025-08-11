@@ -9,5 +9,3 @@ PyMuPDF
 google-generativeai
 camelot-py[cv]
 xlrd==1.2.0
-Inkscape
-ImageMagick
