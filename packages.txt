@@ -1,0 +1,5 @@
+libreoffice
+ghostscript
+poppler-utils
+imagemagick
+inkscape
